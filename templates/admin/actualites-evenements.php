@@ -1,0 +1,1 @@
+<h1>Slider: édition des slides</h1>
